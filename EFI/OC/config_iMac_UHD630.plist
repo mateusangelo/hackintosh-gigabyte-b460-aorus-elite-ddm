@@ -964,7 +964,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>4097</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>Q9619F83</data>
 			<key>SpoofVendor</key>
