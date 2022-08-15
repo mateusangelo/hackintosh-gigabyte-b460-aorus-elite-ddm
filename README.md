@@ -12,4 +12,4 @@ Processor Type para processadores de Engenharia:
 I5 = 1537
 I9 = 4097
 
-
+Atualizado para Opencore 0.8.3
